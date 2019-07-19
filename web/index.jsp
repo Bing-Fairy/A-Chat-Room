@@ -48,7 +48,7 @@
     <%--</ul>--%>
   </div>
 </div>
-<p class="cls2">开发人员：&nbsp;&nbsp;曾中杰&nbsp;干冰雪&nbsp;刘伊凡&nbsp;陈嘉莹&nbsp;陶一&nbsp;陈远杨&nbsp;李涵</p>
+<p class="cls2">开发人员：&nbsp;&nbsp;曾中杰&nbsp;干冰雪&nbsp;陈嘉莹&nbsp;</p>
 <script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
 <script>
 
